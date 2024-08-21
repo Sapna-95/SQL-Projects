@@ -29,5 +29,30 @@ We welcome contributions to:
 ## 📝 License
 - This project is licensed under the MIT License.
 
+# 🏅 Olympic History Project
+
+## 📝 Description
+This project delves into the history of the Olympics, analyzing data to uncover trends, records, and interesting facts about the Olympic Games over the years.
+
+## 🚀 Features
+- **📊 Medal Tally Analysis**: Analyzing the medal counts for different countries across various Olympic Games.
+- **🏃‍♂️ Athlete Performance Tracking**: Tracking the performance of athletes across multiple events and years.
+- **🌍 Country Participation Trends**: Examining the participation trends of countries, including the number of athletes and sports.
+- **🥇 Record-Breaking Performances**: Identifying and analyzing record-breaking performances in different sports.
+- **🔍 Gender Representation**: Analyzing the representation of male and female athletes over time.
+
+## 🗃️ SQL Files
+- **Olympic_History.sql**: SQL queries for analyzing various aspects of Olympic history.
+- **Portfolio_Project_2.sql**: Specific analysis related to the portfolio project.
+- **Project_2_Solution.sql**: Solution queries for analyzing Olympic data.
+
+## 📂 Dataset
+- **olympic_history.csv**: Contains historical data including athlete names, countries, sports, events, and medals won.
+
+## 💡 Contributions
+We welcome contributions to:
+- 🌟 Add new insights or trends related to the Olympic Games.
+- 📊 Improve data visualization or analysis techniques.
+- 🏅 Analyze underrepresented countries or sports in Olympic history.
 
 
